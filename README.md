@@ -1,154 +1,244 @@
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SankeerthKumar&label=Profile%20Views&color=0e75b6&style=flat)
+# Sankeerth Kumar
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+**Senior Software Engineer · Java & Spring · Distributed Systems · Applied AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sankeerth;Senior+Generative+AI+%2F+ML+Engineer;7%2B+Years+%7C+E-commerce%2C+Banking+%26+Healthcare;Bedrock+%7C+LangGraph+%7C+RAG+%7C+Agentic+AI)](https://git.io/typing-svg)
+Designing dependable backend platforms, event-driven services, and AI-powered systems.
 
-📍 Mckinney, TX &nbsp;|&nbsp; 📧 sankeerthkumare@gmail.com &nbsp;|&nbsp; 📞 +1 (214) 297-7140
+<a href="https://sankeerth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/sankeerth-kumar-e-a48a9531a/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sankeertheswaravaka@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/SankeerthKumare"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswaravaka-s-a84a89288/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankeerthkumar.com/)
+<img src="https://komarev.com/ghpvc/?username=SankeerthKumare&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile views">
+<a href="https://github.com/SankeerthKumare?tab=followers"><img src="https://img.shields.io/github/followers/SankeerthKumare?style=flat-square&color=6366F1&label=Followers" alt="Followers"></a>
+<a href="https://github.com/SankeerthKumare?tab=repositories"><img src="https://img.shields.io/github/stars/SankeerthKumare?style=flat-square&color=8B5CF6&label=Stars" alt="Stars"></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I'm a **Senior Generative AI / Machine Learning Engineer** with **7 years of experience** designing, developing, and deploying enterprise AI, Machine Learning, and Generative AI solutions across cloud-native environments. My work spans **e-commerce, banking, SaaS, healthcare, and defense** — building intelligent assistants, agentic workflows, document intelligence, and semantic search systems that run reliably in production.
+Senior Software Engineer with 6+ years of experience building Java and Spring services across banking, healthcare, energy, and telecom. I work across the software lifecycle, from API and data design through cloud deployment, observability, and production support, with a focus on resilient distributed systems and practical AI integration.
 
-- 🤖 Building production Generative AI applications with **AWS Bedrock, Claude, Amazon Nova, and Llama**
-- 🕸️ Designing **agentic workflows** using LangGraph, CrewAI, and Model Context Protocol (MCP)
-- 🔎 Architecting **RAG and GraphRAG** pipelines over Bedrock Knowledge Bases, OpenSearch, Pinecone, and FAISS
-- 📊 11 years of applied ML — NLP, computer vision, predictive analytics, and recommendation systems
-- 🛡️ Rigorous about **LLM evaluation and guardrails** with RAGAS, Promptfoo, and responsible-AI controls
-- ⚙️ Strong backend foundation in **Python, FastAPI, Java, and SQL** with Docker, Kubernetes, and CI/CD
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 Generative AI & LLMs
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Amazon Nova](https://img.shields.io/badge/Amazon_Nova-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Llama](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=robotframework&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_GraphRAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🧠 Machine Learning & NLP
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### 🔎 Vector Databases & Search
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📡 Frameworks & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-
-### ☁️ Cloud & Data Engineering
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🚀 DevOps & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 📈 Evaluation & Monitoring
-![RAGAS](https://img.shields.io/badge/RAGAS-6A5ACD?style=for-the-badge&logo=ray&logoColor=white)
-![Promptfoo](https://img.shields.io/badge/Promptfoo-2D3748?style=for-the-badge&logo=testcafe&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
----
-
-## 💼 What I've Been Building
-
-| Focus Area | What It Looks Like |
+| Focus | Highlights |
 | --- | --- |
-| **Agentic AI** | Multi-agent workflows with LangGraph and CrewAI that decompose tasks, invoke tools, and coordinate reasoning across multi-step business processes |
-| **RAG & GraphRAG** | Retrieval pipelines using semantic chunking, hybrid search, and reranking — plus graph-based retrieval for multi-hop questions vector search misses |
-| **Document Intelligence** | Ingestion pipelines with Textract, Lambda, and S3 that extract, chunk, embed, and index PDFs, emails, and knowledge articles |
-| **LLM Evaluation** | Automated regression harnesses scoring faithfulness, answer relevance, and context precision as release gates rather than subjective review |
-| **Applied ML** | Risk stratification, predictive maintenance, anomaly detection, recommendation, and forecasting models across healthcare, defense, and SaaS |
+| Software engineering | Java, Spring Boot, microservices, REST APIs, security, and testing |
+| AI / ML | Agentic workflows, RAG, embeddings, and model routing |
+| Full stack | Next.js, TypeScript, and Tailwind CSS alongside backend services |
+| Product mindset | Reliable, observable systems built around business outcomes |
+
+**Open to:** Senior Software Engineer, Backend, and Applied AI engineering roles.
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eswaravaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswaravaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
-
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,aws,azure,docker,kubernetes,terraform,kafka,postgres,mysql,mongodb,redis,elasticsearch,prometheus,grafana,githubactions,jenkins,nextjs,ts,tailwind&theme=dark&perline=11" alt="Skill icons"></a>
 </div>
 
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, SQL, Python |
+| Frontend | Next.js, TypeScript, Tailwind CSS |
+| Backend & databases | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, gRPC, PostgreSQL, Oracle, MySQL, MongoDB, Redis, Elasticsearch |
+| Messaging | Apache Kafka, Kafka Streams, RabbitMQ |
+| Cloud, DevOps & tooling | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Prometheus, Grafana, JUnit 5, Mockito, Testcontainers |
+
+---
+
+## AI / ML Expertise
+
+| Domain | Details |
+| --- | --- |
+| Agentic AI | Multi-agent orchestration with human-in-the-loop guardrails, LangChain agents, OpenAI function calling |
+| Retrieval (RAG) | LangChain, LlamaIndex, Pinecone, embeddings, vector search |
+| LLM integration | OpenAI and Claude APIs, structured outputs, model routing |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>AI-Driven Code Review & PR Analysis Tool</strong></summary>
+
+AI-powered code review platform that analyzes GitHub pull requests for bugs, security vulnerabilities, performance bottlenecks, and missing tests.
+
+| Attribute | Detail |
+| --- | --- |
+| Stack | Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, S3, LangChain, LlamaIndex, Pinecone |
+| Integration | GitHub Webhooks, REST APIs, OpenAI / Claude APIs |
+| Security | JWT-based authentication |
+| Impact | Structured review insights generated in real time |
+| Repository | [SankeerthKumare](https://github.com/SankeerthKumare) |
+
+Processes PR diffs and produces structured, actionable findings for reviewers.
+
+</details>
+
+<details>
+<summary><strong>Kafka Payment Settlement Pipeline</strong></summary>
+
+Kafka-based payment settlement platform for financial transaction processing.
+
+| Attribute | Detail |
+| --- | --- |
+| Stack | Java, Spring Boot, Apache Kafka, Kafka Streams, PostgreSQL, Docker, Kubernetes |
+| Scale | 18 million messages per day |
+| Performance | Retry backoff and consumer lag monitoring |
+| Security | Idempotency guards for safe financial processing |
+| Impact | Reliable transaction processing with dead-letter handling |
+
+Event-driven design with idempotency, dead-letter flows, and Prometheus/Grafana monitoring.
+
+</details>
+
+<details>
+<summary><strong>Agentic AI Banking Platform</strong></summary>
+
+Backend microservices for Citi's Arc agentic AI platform.
+
+| Attribute | Detail |
+| --- | --- |
+| Stack | Java, Spring Boot, LangChain, OpenAI API, Pinecone |
+| Scale | Enterprise banking workloads |
+| Performance | RAG-based context retrieval |
+| Security | Human-in-the-loop guardrails |
+| Impact | Research synthesis, fraud signal aggregation, and compliance document review |
+
+Multi-agent orchestration supporting autonomous research and review workflows.
+
+</details>
+
+<details>
+<summary><strong>Predictive Maintenance AI Workflows</strong></summary>
+
+Agentic AI backend services for Chevron's ENGINE digital transformation hub.
+
+| Attribute | Detail |
+| --- | --- |
+| Stack | Java, Spring Boot, LangChain, LlamaIndex, Apache Kafka, MySQL, Splunk |
+| Scale | Real-time sensor data streams |
+| Performance | Streaming anomaly detection |
+| Security | Operational guardrails |
+| Impact | Autonomous anomaly flagging and root cause analysis |
+
+LangChain agents with LlamaIndex RAG pipelines and OpenAI function calling.
+
+</details>
+
+<details>
+<summary><strong>Portfolio Website</strong></summary>
+
+Responsive personal portfolio.
+
+| Attribute | Detail |
+| --- | --- |
+| Stack | Next.js, TypeScript, Tailwind CSS, Vercel |
+| Scale | Single-page, statically optimized |
+| Performance | Smooth-scroll navigation, dark theme |
+| Security | Static hosting on Vercel |
+| Impact | Live at [sankeerth.vercel.app](https://sankeerth.vercel.app) |
+| Repository | [My-Portfolio](https://github.com/SankeerthKumare/My-Portfolio) |
+
+Built and deployed end to end.
+
+</details>
+
+---
+
+## Experience
+
+**Senior Software Engineer** · Bean Infosystems · Jun 2025 – Present
+Building Java and Spring backend services, event-driven pipelines, and AI-integrated workflows.
+<br>
+<img src="https://img.shields.io/badge/Java-4F46E5?style=flat-square"> <img src="https://img.shields.io/badge/Spring_Boot-6366F1?style=flat-square"> <img src="https://img.shields.io/badge/Kafka-7C3AED?style=flat-square"> <img src="https://img.shields.io/badge/AWS-8B5CF6?style=flat-square">
+
+**Software Engineer Intern** · Mind Graph · Jan 2025 – May 2025
+
+**Systems Engineer** · Infosys · May 2022 – Aug 2023
+
+**Associate Software Engineer → Software Engineer** · Sri Tech · Sep 2019 – Apr 2022
+
+---
+
+## Certifications
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eswaravaka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| Provider | Certification |
+| --- | --- |
+| AWS | Solutions Architect – Associate |
+| Oracle | Java SE 11 Developer |
+| HashiCorp | Terraform Associate |
+| Anthropic | Building with Claude API |
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Eswaravaka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-  </a>
+  <a href="https://github.com/SankeerthKumare"><img src="https://github-readme-stats.vercel.app/api?username=SankeerthKumare&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" height="170"></a>
+  <a href="https://github.com/SankeerthKumare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankeerthKumare&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="170"></a>
+  <br>
+  <a href="https://github.com/SankeerthKumare"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SankeerthKumare&hide_border=true&theme=tokyonight" alt="GitHub streak"></a>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SankeerthKumare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies"></a>
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/SankeerthKumare"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SankeerthKumare&bg_color=1a1b27&color=93c5fd&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution activity"></a>
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SankeerthKumare/SankeerthKumare/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:  [Agentic AI patterns, LLM evaluation, advanced RAG]
+building:  [Event-driven Java services, AI-assisted developer tooling]
+exploring: [Multi-agent orchestration, model routing, observability for AI]
+open_to:   [Senior Software Engineer, Backend, Applied AI roles]
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+| Gmail | LinkedIn | GitHub | Portfolio |
+| --- | --- | --- | --- |
+| [sankeertheswaravaka@gmail.com](mailto:sankeertheswaravaka@gmail.com) | [Sankeerth Kumar](https://www.linkedin.com/in/sankeerth-kumar-e-a48a9531a/) | [SankeerthKumare](https://github.com/SankeerthKumare) | [sankeerth.vercel.app](https://sankeerth.vercel.app) |
+
 </div>
 
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect & Build Together!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswaravaka-s-a84a89288/)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankeerthkumar.com/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankeerthkumare@gmail.com)
-
----
-
-*"The best AI systems aren't the ones with the biggest models — they're the ones you can measure, explain, and trust in production."*
-
-⭐️ **If you find my work useful, consider starring my repositories!**
-
+  <sub><em>Build systems that are measurable, explainable, and dependable in production.</em></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer banner" width="100%">
 </div>
-
